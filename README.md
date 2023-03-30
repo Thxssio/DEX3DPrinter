@@ -1,4 +1,4 @@
-<h1 align="center">DEX 3D Printer Firmware Edition v1.0
+<h1 align="center">DEX 3D Printer Firmware Edition v2.0
 </h1>
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
